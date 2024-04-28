@@ -22,9 +22,8 @@
 <p align="left"> <a href="https://discord.com/users/244898854451806209" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@abdelhadi-salah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
 
 
-[![Yellow Illustrative Social Media Marketing LinkedIn Article Cover Image (4)](https://github.com/sperkoo/sperkoo/assets/141161461/8faa60b5-a458-47c4-ab61-962f67922e1c)](https://medium.com/me/stats/post/e0abfe0e0fef)
 
-
+[![Push Swap](https://github.com/sperkoo/sperkoo/assets/141161461/cea80e90-ffde-4dd1-b134-058e4e5b58c9)](https://medium.com/me/stats/post/e0abfe0e0fef)
 
 
 
