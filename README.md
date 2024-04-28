@@ -21,11 +21,9 @@
 
 <p align="left"> <a href="https://discord.com/users/244898854451806209" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@abdelhadi-salah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
 
+### Meduim Articles
 
-
-[![Push Swap](https://github.com/sperkoo/sperkoo/assets/141161461/cea80e90-ffde-4dd1-b134-058e4e5b58c9)](https://medium.com/me/stats/post/e0abfe0e0fef)
-
-
+[![Push Swap](https://github.com/sperkoo/sperkoo/assets/141161461/010d6f27-298b-48f6-8b0c-5e1679eecb52)](https://medium.com/me/stats/post/e0abfe0e0fef)
 
 <!--
 **sperkoo/sperkoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
