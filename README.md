@@ -7,8 +7,9 @@
 📚 Dev journey at 1337 Coding School (42 Network) <br/>
 🌱 Growing in programming, perpetually learning <br/>
 🌐 Contributing to open source, shaping the digital landscape <br/>
+</br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sperkoo)](https://github.com/anuraghazra/github-readme-stats)
+[![sperkoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sperkoo)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills
 
@@ -19,6 +20,14 @@
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/244898854451806209" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@abdelhadi-salah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
+
+
+[![Yellow Illustrative Social Media Marketing LinkedIn Article Cover Image (4)](https://github.com/sperkoo/sperkoo/assets/141161461/8faa60b5-a458-47c4-ab61-962f67922e1c)](https://medium.com/me/stats/post/e0abfe0e0fef)
+
+
+
+
+
 <!--
 **sperkoo/sperkoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,6 +39,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
