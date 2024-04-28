@@ -1,4 +1,14 @@
-### Hi there 👋
+### 👋 Hi, I'm Salah!
+
+![Yellow Illustrative Social Media Marketing LinkedIn Article Cover Image (4)](https://github.com/sperkoo/sperkoo/assets/141161461/8faa60b5-a458-47c4-ab61-962f67922e1c)
+
+
+🚀 Tech enthusiast sharing my coding odyssey and insights <br/>
+📚 Dev journey at 1337 Coding School (42 Network) <br/>
+🌱 Growing in programming, perpetually learning <br/>
+🌐 Contributing to open source, shaping the digital landscape <br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sperkoo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sperkoo/sperkoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
