@@ -4,7 +4,6 @@
 
 
 🚀 Tech enthusiast sharing my coding odyssey and insights <br/>
-📚 Dev journey at 1337 Coding School (42 Network) <br/>
 🌱 Growing in programming, perpetually learning <br/>
 🌐 Contributing to open source, shaping the digital landscape <br/>
 </br>
