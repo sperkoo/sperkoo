@@ -8,7 +8,6 @@
 🌐 Contributing to open source, shaping the digital landscape <br/>
 </br>
 
-[![sperkoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sperkoo)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills
 
