@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Salah!
+### 👋 Hi!
 
 ![Yellow Illustrative Social Media Marketing LinkedIn Article Cover Image (4)](https://github.com/sperkoo/sperkoo/assets/141161461/8faa60b5-a458-47c4-ab61-962f67922e1c)
 
